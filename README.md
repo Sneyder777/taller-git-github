@@ -4,7 +4,7 @@ Este repositorio fue creado como práctica de clase.
 
 ## Integrante
 
-- Nombre del estudiante
+- Brayan Sneyder Garcia Camacho
 
 ## Comandos aprendidos
 
